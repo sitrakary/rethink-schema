@@ -1,0 +1,7 @@
+{
+  "name": "rethink-schema",
+  "version": "0.0.0",
+  "description": "Initialize rethinkdb database schema",
+  "main": "index.js",
+  "license": "MIT"
+}
